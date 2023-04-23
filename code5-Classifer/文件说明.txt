@@ -1,0 +1,4 @@
+myfinalHideState2wei开头的文件是寒假任务中没加MLP的隐状态降维后的结果
+mlppredict开头的文件是将上述二维隐状态输入MLP之后由MLP预测产生的标签结果
+label_train和label_test还是以前的标签
+所有的生成的图片文件都在img文件夹下

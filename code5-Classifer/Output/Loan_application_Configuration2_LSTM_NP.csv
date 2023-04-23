@@ -1,0 +1,14 @@
+MSE, MAE, RMSE
+ID, MSE, MAE, RMSE
+MSE, MAE, RMSE
+LSTM_NonPartition--totalMSE:,0.24654127657413483   totalMAE:,0.25074949860572815   totalRMSE:,0.496529221534729   
+ID, MSE, MAE, RMSE
+MSE, MAE, RMSE
+LSTM_NonPartition--totalMSE:,nan   totalMAE:,nan   totalRMSE:,nan   
+ID, MSE, MAE, RMSE
+MSE, MAE, RMSE
+LSTM_NonPartition--totalMSE:,nan   totalMAE:,nan   totalRMSE:,nan   
+ID, MSE, MAE, RMSE
+MSE, MAE, RMSE
+LSTM_NonPartition--totalMSE:,0.039138127118349075   totalMAE:,0.11524152010679245   totalRMSE:,0.1978335827589035   
+ID, MSE, MAE, RMSE
